@@ -1,6 +1,2 @@
 transformers==4.56.1
-<<<<<<< HEAD
 torch==2.8.0
-=======
-torch==2.8.0
->>>>>>> 7994463a655385b59a6f0b9e245a38a2fd060ff5
