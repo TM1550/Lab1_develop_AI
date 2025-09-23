@@ -1,0 +1,527 @@
+[
+  {
+    "question": "Who wrote the novel 'Crime and Punishment'?",
+    "answer": "Fyodor Dostoevsky",
+    "context": "The great Russian writer Fyodor Dostoevsky worked on the novel 'Crime and Punishment' in 1866. This work has become a classic of world literature."
+  },
+  {
+    "question": "When was Apple founded?",
+    "answer": "April 1, 1976",
+    "context": "Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne on April 1, 1976, in California, USA."
+  },
+  {
+    "question": "Which chemical element has the symbol O?",
+    "answer": "Oxygen",
+    "context": "Oxygen is a chemical element with the symbol O and atomic number 8. It is a vital element for most living organisms."
+  },
+  {
+    "question": "How many planets are in the Solar System?",
+    "answer": "Eight",
+    "context": "The Solar System consists of eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "answer": "Tokyo",
+    "context": "Tokyo is the capital of Japan and one of the world's largest megacities. The city is known for its technology and culture."
+  },
+  {
+    "question": "Who was the first human in space?",
+    "answer": "Yuri Gagarin",
+    "context": "On April 12, 1961, Soviet cosmonaut Yuri Gagarin became the first human to journey into space aboard the 'Vostok-1' spacecraft."
+  },
+  {
+    "question": "In what year did World War II begin?",
+    "answer": "1939",
+    "context": "World War II began on September 1, 1939, with Germany's invasion of Poland and lasted until 1945."
+  },
+  {
+    "question": "Who invented the telephone?",
+    "answer": "Alexander Graham Bell",
+    "context": "Alexander Graham Bell received a patent for the invention of the telephone on March 7, 1876. This invention revolutionized communication."
+  },
+  {
+    "question": "Which programming language was created by Guido van Rossum?",
+    "answer": "Python",
+    "context": "Guido van Rossum began developing the Python language in the late 1980s. The language was named after the comedy show 'Monty Python'."
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "answer": "Six",
+    "context": "There are traditionally six continents on Earth: Eurasia, Africa, North America, South America, Australia, and Antarctica."
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "answer": "William Shakespeare",
+    "context": "The tragedy 'Hamlet' was written by the English playwright William Shakespeare between 1599 and 1601."
+  },
+  {
+    "question": "Which metal is the lightest?",
+    "answer": "Lithium",
+    "context": "Lithium is the lightest metal in the periodic table of elements. It has a density of only 0.534 g/cm³ and is widely used in batteries."
+  },
+  {
+    "question": "In which city is the Eiffel Tower located?",
+    "answer": "Paris",
+    "context": "The Eiffel Tower, one of the most recognizable symbols of France, is located in Paris on the Champ de Mars."
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "Alexander Fleming",
+    "context": "Scottish scientist Alexander Fleming accidentally discovered penicillin in 1928. This discovery marked the beginning of the antibiotic era."
+  },
+  {
+    "question": "How many hours are in a day?",
+    "answer": "24",
+    "context": "A day consists of 24 hours, which corresponds to the time of the Earth's complete rotation around its axis relative to the Sun."
+  },
+  {
+    "question": "Which gas do plants absorb during photosynthesis?",
+    "answer": "Carbon dioxide",
+    "context": "During photosynthesis, plants absorb carbon dioxide from the atmosphere and release oxygen, using the energy of sunlight."
+  },
+  {
+    "question": "Who was the first president of the United States?",
+    "answer": "George Washington",
+    "context": "George Washington became the first president of the United States of America in 1789 and served two terms."
+  },
+  {
+    "question": "What is the name of the largest desert in the world?",
+    "answer": "Antarctic Desert",
+    "context": "The Antarctic Desert is the largest desert in the world, covering an area of about 14 million square kilometers."
+  },
+  {
+    "question": "In what year did the Berlin Wall fall?",
+    "answer": "1989",
+    "context": "The Berlin Wall, which divided East and West Berlin, was torn down on November 9, 1989, symbolizing the end of the Cold War."
+  },
+  {
+    "question": "What is the official language of Brazil?",
+    "answer": "Portuguese",
+    "context": "Brazil is the only country in South America where the official language is Portuguese."
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "answer": "Albert Einstein",
+    "context": "Albert Einstein developed the special and general theories of relativity, which revolutionized our understanding of space and time."
+  },
+  {
+    "question": "What is the name of the smallest country in the world?",
+    "answer": "Vatican City",
+    "context": "Vatican City is the smallest country in the world by area—only 0.49 square kilometers. It is located within Rome."
+  },
+  {
+    "question": "How many bones are in an adult human body?",
+    "answer": "206",
+    "context": "An adult human skeleton typically has 206 bones, although newborns have more, some of which fuse together with age."
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "answer": "Pacific Ocean",
+    "context": "The Pacific Ocean is the largest and deepest ocean on Earth, covering about one-third of the planet's surface."
+  },
+  {
+    "question": "Who wrote 'War and Peace'?",
+    "answer": "Leo Tolstoy",
+    "context": "The epic novel 'War and Peace' was written by Leo Tolstoy between 1863 and 1869. It is one of the greatest works of Russian literature."
+  },
+  {
+    "question": "Which chemical element has the atomic number 1?",
+    "answer": "Hydrogen",
+    "context": "Hydrogen is the simplest and most abundant element in the universe. Its atomic number is 1, and it consists of one proton and one electron."
+  },
+  {
+    "question": "In what year did humans first land on the Moon?",
+    "answer": "1969",
+    "context": "On July 20, 1969, NASA astronauts Neil Armstrong and Buzz Aldrin became the first humans to set foot on the lunar surface."
+  },
+  {
+    "question": "What is the currency of Japan called?",
+    "answer": "Yen",
+    "context": "The yen is the official currency of Japan. It was introduced in 1871 and is one of the world's major reserve currencies."
+  },
+  {
+    "question": "Who discovered America?",
+    "answer": "Christopher Columbus",
+    "context": "Christopher Columbus, an Italian explorer, discovered America in 1492, although he initially believed he had reached the East Indies."
+  },
+  {
+    "question": "Which pigment gives plants their green color?",
+    "answer": "Chlorophyll",
+    "context": "Chlorophyll is a pigment that absorbs sunlight and gives plants their green color. It plays a key role in photosynthesis."
+  },
+  {
+    "question": "How many sides does a square have?",
+    "answer": "Four",
+    "context": "A square is a geometric figure with four equal sides and four right angles of 90 degrees each."
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "Canberra",
+    "context": "Canberra is the capital of Australia. It is a planned city located between Sydney and Melbourne."
+  },
+  {
+    "question": "Who wrote 'The Master and Margarita'?",
+    "answer": "Mikhail Bulgakov",
+    "context": "The novel 'The Master and Margarita' was written by Mikhail Bulgakov between 1928 and 1940. It was published only after the author's death."
+  },
+  {
+    "question": "Which planet is known for its rings?",
+    "answer": "Saturn",
+    "context": "Saturn, the sixth planet from the Sun, is known for its impressive rings, which are made of ice, rocks, and dust."
+  },
+  {
+    "question": "In what year did the Soviet Union dissolve?",
+    "answer": "1991",
+    "context": "The Soviet Union officially dissolved on December 26, 1991, leading to the creation of 15 independent states."
+  },
+  {
+    "question": "What are the official languages of Canada?",
+    "answer": "English and French",
+    "context": "Canada has two official languages: English and French. French is predominant in the province of Quebec."
+  },
+  {
+    "question": "Who is the author of 'The Captain's Daughter'?",
+    "answer": "Alexander Pushkin",
+    "context": "Alexander Pushkin wrote the historical novel 'The Captain's Daughter' in 1836. The work is dedicated to the events of the Pugachev Rebellion."
+  },
+  {
+    "question": "What is the name of the deepest point in the ocean?",
+    "answer": "Mariana Trench",
+    "context": "The Mariana Trench in the Pacific Ocean is the deepest point on Earth. Its depth is about 11,000 meters."
+  },
+  {
+    "question": "How many years did the Hundred Years' War last?",
+    "answer": "116",
+    "context": "The Hundred Years' War between England and France lasted from 1337 to 1453, which is 116 years."
+  },
+  {
+    "question": "Which continent is the largest?",
+    "answer": "Eurasia",
+    "context": "Eurasia is the largest continent on Earth, comprising Europe and Asia. Its area is about 55 million square kilometers."
+  },
+  {
+    "question": "Who discovered X-rays?",
+    "answer": "Wilhelm Röntgen",
+    "context": "German physicist Wilhelm Röntgen discovered X-rays in 1895. For this discovery, he received the first Nobel Prize in Physics."
+  },
+  {
+    "question": "What is the name of the longest mountain range in the world?",
+    "answer": "Andes",
+    "context": "The Andes, located in South America, are the longest mountain range in the world, stretching about 7,000 km."
+  },
+  {
+    "question": "In what year did World War I begin?",
+    "answer": "1914",
+    "context": "World War I began on July 28, 1914, after the assassination of Archduke Franz Ferdinand and lasted until 1918."
+  },
+  {
+    "question": "Which gas is necessary for human respiration?",
+    "answer": "Oxygen",
+    "context": "Oxygen is necessary for the process of cellular respiration in humans and most living organisms. We inhale it from the air."
+  },
+  {
+    "question": "How many colors are in a rainbow?",
+    "answer": "Seven",
+    "context": "A rainbow traditionally has seven main colors: red, orange, yellow, green, blue, indigo, and violet."
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "answer": "Cairo",
+    "context": "Cairo is the capital of Egypt and the largest city in the Arab world. The city is located on the banks of the Nile River."
+  },
+  {
+    "question": "Who wrote 'The Three Musketeers'?",
+    "answer": "Alexandre Dumas",
+    "context": "Alexandre Dumas, père, wrote the adventure novel 'The Three Musketeers' in 1844. It is one of his most famous works."
+  },
+  {
+    "question": "Which element is the main component of a diamond?",
+    "answer": "Carbon",
+    "context": "A diamond consists of pure carbon, whose atoms are arranged in a crystal lattice. It is the hardest natural material."
+  },
+  {
+    "question": "In which city is the Statue of Liberty located?",
+    "answer": "New York",
+    "context": "The Statue of Liberty, a gift from France to the USA, is located on Liberty Island in New York Harbor. It was opened in 1886."
+  },
+  {
+    "question": "Who are the founders of Microsoft?",
+    "answer": "Bill Gates and Paul Allen",
+    "context": "Microsoft was founded by Bill Gates and Paul Allen on April 4, 1975. It became one of the world's largest tech companies."
+  },
+  {
+    "question": "What is the name of the largest planet in the Solar System?",
+    "answer": "Jupiter",
+    "context": "Jupiter is the largest planet in the Solar System. Its mass is 2.5 times greater than the combined mass of all other planets."
+  },
+  {
+    "question": "How many days are in a leap year?",
+    "answer": "366",
+    "context": "A leap year has 366 days instead of the usual 365. The extra day (February 29) is added to synchronize with the astronomical year."
+  },
+  {
+    "question": "What is the official language of Germany?",
+    "answer": "German",
+    "context": "The official language of Germany is German. It is spoken by about 100 million people in various countries around the world."
+  },
+  {
+    "question": "Who discovered the law of universal gravitation?",
+    "answer": "Isaac Newton",
+    "context": "English scientist Isaac Newton formulated the law of universal gravitation in 1687 after, according to legend, an apple fell on his head."
+  },
+  {
+    "question": "What is the name of the hottest planet in the Solar System?",
+    "answer": "Venus",
+    "context": "Venus is the hottest planet in the Solar System due to its dense atmosphere, which creates a strong greenhouse effect."
+  },
+  {
+    "question": "In what year was the US Declaration of Independence signed?",
+    "answer": "1776",
+    "context": "The US Declaration of Independence was signed on July 4, 1776, declaring the independence of the thirteen colonies from Great Britain."
+  },
+  {
+    "question": "Which gas do plants use for respiration at night?",
+    "answer": "Oxygen",
+    "context": "During the dark hours, plants respire, absorbing oxygen and releasing carbon dioxide, like most living organisms."
+  },
+  {
+    "question": "How many years did Peter the Great rule?",
+    "answer": "43",
+    "context": "Peter the Great ruled Russia from 1682 to 1725, which is 43 years. He carried out large-scale reforms in the country."
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "answer": "Ottawa",
+    "context": "Ottawa is the capital of Canada. The city is located in the province of Ontario on the banks of the Ottawa River."
+  },
+  {
+    "question": "Who wrote 'Eugene Onegin'?",
+    "answer": "Alexander Pushkin",
+    "context": "Alexander Pushkin worked on the novel in verse 'Eugene Onegin' from 1823 to 1831. This work is considered an encyclopedia of Russian life."
+  },
+  {
+    "question": "Which metal is the heaviest?",
+    "answer": "Osmium",
+    "context": "Osmium is the densest natural metal. Its density is 22.59 g/cm³, which is almost twice the density of lead."
+  },
+  {
+    "question": "In which city is the Leaning Tower of Pisa located?",
+    "answer": "Pisa",
+    "context": "The Leaning Tower of Pisa, famous for its tilt, is located in the Italian city of Pisa in the Piazza dei Miracoli."
+  },
+  {
+    "question": "Who is the founder of psychoanalysis?",
+    "answer": "Sigmund Freud",
+    "context": "Austrian neurologist Sigmund Freud is considered the founder of psychoanalysis. His work greatly influenced 20th-century psychology."
+  },
+  {
+    "question": "What is the name of the largest bird in the world?",
+    "answer": "Ostrich",
+    "context": "The African ostrich is the largest bird in the world. It cannot fly but can reach speeds of up to 70 km/h when running."
+  },
+  {
+    "question": "How many days did the Siege of Leningrad last?",
+    "answer": "872",
+    "context": "The Siege of Leningrad during the Great Patriotic War lasted from September 8, 1941, to January 27, 1944—872 days."
+  },
+  {
+    "question": "Which ocean surrounds Antarctica?",
+    "answer": "Southern Ocean",
+    "context": "Antarctica is surrounded by the Southern Ocean, which was designated as a separate ocean in 2000, although some still consider it part of other oceans."
+  },
+  {
+    "question": "Who discovered the electrical nature of nerve impulses?",
+    "answer": "Luigi Galvani",
+    "context": "Italian scientist Luigi Galvani discovered 'animal electricity' in the late 18th century, laying the foundations for electrophysiology."
+  },
+  {
+    "question": "What is the name of the largest fish in the world?",
+    "answer": "Whale shark",
+    "context": "The whale shark is the largest fish in the world. Its length can reach 18 meters, but it feeds on plankton and is safe for humans."
+  },
+  {
+    "question": "In what year did the October Revolution occur?",
+    "answer": "1917",
+    "context": "The October Revolution in Russia occurred on November 7, 1917, according to the new calendar. As a result, the Bolsheviks came to power."
+  },
+  {
+    "question": "Which gas is used to fill balloons?",
+    "answer": "Helium",
+    "context": "Helium is often used to fill balloons because it is lighter than air and does not burn, unlike hydrogen."
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "answer": "Buenos Aires",
+    "context": "Buenos Aires is the capital of Argentina. It is a major cultural and economic center in South America."
+  },
+  {
+    "question": "Who wrote 'Fathers and Sons'?",
+    "answer": "Ivan Turgenev",
+    "context": "The novel 'Fathers and Sons' was written by Ivan Turgenev in 1862. It addresses the theme of the conflict between generations."
+  },
+  {
+    "question": "Which element is necessary for bone formation?",
+    "answer": "Calcium",
+    "context": "Calcium is an essential mineral for the formation and maintenance of healthy bones and teeth. It is also involved in muscle contraction."
+  },
+  {
+    "question": "In which city is the Colosseum located?",
+    "answer": "Rome",
+    "context": "The Colosseum, one of the Seven Wonders of the World, is located in the center of Rome, Italy. It is an ancient amphitheater built in the 1st century AD."
+  },
+  {
+    "question": "Who discovered vitamins?",
+    "answer": "Casimir Funk",
+    "context": "Polish scientist Casimir Funk coined the term 'vitamine' in 1912, discovering that some diseases are caused by a lack of certain substances."
+  },
+  {
+    "question": "What is the name of the smallest bird in the world?",
+    "answer": "Hummingbird",
+    "context": "The bee hummingbird is the smallest bird in the world. Its length is about 5 cm, and it weighs less than 2 grams."
+  },
+  {
+    "question": "How many years was St. Petersburg built?",
+    "answer": "Over 300 years",
+    "context": "The construction of St. Petersburg began in 1703 and continues to this day, so it can be said that the city has been under construction for over 300 years."
+  },
+  {
+    "question": "Which ocean is the smallest?",
+    "answer": "Arctic Ocean",
+    "context": "The Arctic Ocean is the smallest and shallowest of the Earth's five oceans. It is located in the North Pole region."
+  },
+  {
+    "question": "Who discovered the cellular structure of organisms?",
+    "answer": "Robert Hooke",
+    "context": "English scientist Robert Hooke first observed cells in 1665 while studying a cork slice under a microscope. He also introduced the term 'cell'."
+  },
+  {
+    "question": "In what year was the first artificial Earth satellite launched?",
+    "answer": "1957",
+    "context": "The first artificial Earth satellite, 'Sputnik 1', was launched by the Soviet Union on October 4, 1957, marking the beginning of the space age."
+  },
+  {
+    "question": "Which gas causes the greenhouse effect?",
+    "answer": "Carbon dioxide",
+    "context": "Carbon dioxide is one of the main greenhouse gases that trap heat in the atmosphere, contributing to global warming."
+  },
+  {
+    "question": "How many years did the Hundred Years' War last?",
+    "answer": "116",
+    "context": "The Hundred Years' War between England and France lasted from 1337 to 1453, which is 116 years, despite its name."
+  },
+  {
+    "question": "What is the capital of China?",
+    "answer": "Beijing",
+    "context": "Beijing is the capital of the People's Republic of China. It is the political, educational, and cultural center of the country."
+  },
+  {
+    "question": "Who wrote 'The Government Inspector'?",
+    "answer": "Nikolai Gogol",
+    "context": "The comedy 'The Government Inspector' was written by Nikolai Gogol in 1836. It satirizes official corruption in the Russian provinces."
+  },
+  {
+    "question": "Which elements are the main components of water?",
+    "answer": "Oxygen and hydrogen",
+    "context": "Water consists of two elements: oxygen and hydrogen in the ratio H₂O. Oxygen makes up about 89% of the mass of a water molecule."
+  },
+  {
+    "question": "In which city is Big Ben located?",
+    "answer": "London",
+    "context": "Big Ben is the bell in the clock tower of the Palace of Westminster in London. The clock has become a symbol of Great Britain."
+  },
+  {
+    "question": "Who is the creator of Tesla?",
+    "answer": "Elon Musk",
+    "context": "Although Tesla was founded by Martin Eberhard and Marc Tarpenning, Elon Musk joined the company in 2004 and became its public face."
+  },
+  {
+    "question": "What is the name of the closest star to Earth?",
+    "answer": "Sun",
+    "context": "The Sun is the closest star to Earth. It is located about 150 million kilometers from our planet."
+  },
+  {
+    "question": "How long did the Battle of Kulikovo last?",
+    "answer": "One day",
+    "context": "The Battle of Kulikovo between the forces of Dmitry Donskoy and Mamai took place on September 8, 1380, and lasted only one day."
+  },
+  {
+    "question": "What are the official languages of India?",
+    "answer": "Hindi and English",
+    "context": "India has two official languages at the federal level: Hindi and English. In addition, there are 21 official state languages."
+  },
+  {
+    "question": "Who discovered the neutron?",
+    "answer": "James Chadwick",
+    "context": "English physicist James Chadwick discovered the neutron in 1932. For this discovery, he received the Nobel Prize in Physics in 1935."
+  },
+  {
+    "question": "In what year did the Great Patriotic War begin?",
+    "answer": "1941",
+    "context": "The Great Patriotic War began on June 22, 1941, with Germany's attack on the Soviet Union and ended on May 9, 1945."
+  },
+  {
+    "question": "Which gas is used to disinfect water?",
+    "answer": "Chlorine",
+    "context": "Chlorine is widely used to disinfect drinking water in municipal water systems because it effectively kills bacteria and viruses."
+  },
+  {
+    "question": "How many years did Catherine the Great rule?",
+    "answer": "34",
+    "context": "Catherine the Great ruled the Russian Empire from 1762 to 1796, which is 34 years. This period is called the 'Golden Age' of the nobility."
+  },
+  {
+    "question": "What is the capital of Turkey?",
+    "answer": "Ankara",
+    "context": "Ankara has been the capital of Turkey since 1923. Istanbul, although larger, lost its capital status after the collapse of the Ottoman Empire."
+  },
+  {
+    "question": "Who wrote 'And Quiet Flows the Don'?",
+    "answer": "Mikhail Sholokhov",
+    "context": "The epic novel 'And Quiet Flows the Don' was written by Mikhail Sholokhov between 1925 and 1940. For this work, he received the Nobel Prize."
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "answer": "Mercury",
+    "context": "Mercury is the only metal that is in a liquid state at room temperature. It is used in thermometers and barometers."
+  },
+  {
+    "question": "In which city is the Acropolis located?",
+    "answer": "Athens",
+    "context": "The Acropolis, an ancient architectural complex, is located in Athens, Greece. The Parthenon is the most famous structure of the Acropolis."
+  },
+  {
+    "question": "Who is the founder of Amazon?",
+    "answer": "Jeff Bezos",
+    "context": "Jeff Bezos founded the company Amazon.com in 1994. Initially, it specialized in selling books online but later diversified."
+  },
+  {
+    "question": "What is the name of the brightest star in the night sky?",
+    "answer": "Sirius",
+    "context": "Sirius, also known as the 'Dog Star', is the brightest star in the night sky. It is located in the constellation Canis Major."
+  },
+  {
+    "question": "What is the official language of Spain?",
+    "answer": "Spanish",
+    "context": "The official language of Spain is Spanish (Castilian). In autonomous communities, other languages are also official, such as Catalan."
+  },
+  {
+    "question": "Who discovered radioactivity?",
+    "answer": "Henri Becquerel",
+    "context": "French physicist Henri Becquerel discovered radioactivity in 1896, accidentally finding that uranium salts emit radiation."
+  },
+  {
+    "question": "What is the name of the longest river in Europe?",
+    "answer": "Volga",
+    "context": "The Volga is the longest river in Europe. Its length is 3,530 km, and it flows through Russia."
+  },
+  {
+    "question": "In what year did the French Revolution begin?",
+    "answer": "1789",
+    "context": "The French Revolution began in 1789 with the storming of the Bastille and led to the overthrow of the monarchy and the establishment of a republic."
+  },
+  {
+    "question": "Which gas is used to make carbonated drinks?",
+    "answer": "Carbon dioxide",
+    "context": "Carbon dioxide under pressure is used to carbonate soft drinks, giving them their characteristic bubbles and slightly sour taste."
+  }
+]
