@@ -1,3 +1,5 @@
+#Генерация ответа на вопрос по тексту
+
 Установка:
 
 git clone https://github.com/TM1550/Lab1_develop_AI.git
