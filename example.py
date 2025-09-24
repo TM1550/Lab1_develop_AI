@@ -20,8 +20,8 @@ if __name__ == "__main__":
     original_file = "dataset.json"
 
     # Оцениваем производительность на отфильтрованном датасете
-    print("\nEvaluating on filtered dataset...")
+    print("\nEvaluating on dataset...")
     f1, accuracy = calculate_f1_for_json_dataset(original_file, model)
 
     print(f"\n=== Results ===")
-    print(f"Filtered dataset - F1: {f1:.4f}, Accuracy: {accuracy:.4f}")
+    print(f"Dataset - F1: {f1:.4f}, Accuracy: {accuracy:.4f}")
